@@ -60,7 +60,15 @@ To get started, explore the documentation for both frameworks:
 
 You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com) to build a full-stack application from scratch, or check out [Laracasts](https://laracasts.com) for video tutorials on both frameworks.
 
-one https://github.com/LovelyTimeMachine/GalleryPhotoLaraVue.git
+## Contact Me
 
+Me, Muhammad Riefan Annazhif Fatah feel free to reach out if you have any questions or want to discuss something!
+
+- **Email**: [zeref.sch@gmail.com](mailto:zeref.sch@gmail.com)
+- **Instagram**: [https://www.instagram.com/_.zwreff/](https://www.instagram.com/_.zwreff/)
+- **GitHub**: [https://github.com/LovelyTimeMachine](https://github.com/LovelyTimeMachine)
+- https://www.instagram.com/_.zwreff/
+
+---
 
    cd GalleryPhotoLaraVue
