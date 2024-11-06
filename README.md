@@ -67,8 +67,4 @@ Me, Muhammad Riefan Annazhif Fatah feel free to reach out if you have any questi
 - **Email**: [zeref.sch@gmail.com](mailto:zeref.sch@gmail.com)
 - **Instagram**: [https://www.instagram.com/_.zwreff/](https://www.instagram.com/_.zwreff/)
 - **GitHub**: [https://github.com/LovelyTimeMachine](https://github.com/LovelyTimeMachine)
-- https://www.instagram.com/_.zwreff/
-
 ---
-
-   cd GalleryPhotoLaraVue
