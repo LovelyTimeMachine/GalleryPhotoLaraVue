@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    @keyframes glowing-animation {
+        0% {
+            text-shadow: 0 0 5px rgba(236, 72, 153, 0.7), 0 0 10px rgba(236, 72, 153, 0.7), 0 0 15px rgba(236, 72, 153, 0.7);
+        }
+        100% {
+            text-shadow: 0 0 10px rgba(236, 72, 153, 1), 0 0 20px rgba(236, 72, 153, 1), 0 0 30px rgba(236, 72, 153, 1);
+        }
+    }
+
+    .glowing-text {
+        @apply text-pink-400;
+        animation: glowing-animation 1.5s infinite alternate;
+    }
+}
