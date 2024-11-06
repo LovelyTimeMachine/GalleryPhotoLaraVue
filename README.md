@@ -10,8 +10,10 @@
   <a href="https://inertiajs.com" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/52368357?s=200&v=4" width="100" alt="Inertia.js Logo">
   </a>
-      &nbsp;&nbsp;&nbsp;
-     <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+      
+</p>
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/villains/images/f/f0/Nana_Hiiragianime12.jpg/revision/latest/scale-to-width-down/1000?cb=20230815001650" width="250" alt="Hiiragi Nana">
 </p>
 
 <p align="center">
