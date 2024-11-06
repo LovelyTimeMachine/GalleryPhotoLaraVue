@@ -8,7 +8,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://inertiajs.com" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/52368357?s=200&v=4" width="100" alt="Inertia.js Logo">
+    <img src="https://pbs.twimg.com/profile_images/1157690996823592960/TaroSwnp_400x400.jpg" width="100" alt="Inertia.js Logo">
   </a>
       
 </p>
