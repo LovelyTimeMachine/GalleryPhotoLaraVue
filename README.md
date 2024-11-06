@@ -48,3 +48,10 @@ To get started, explore the documentation for both frameworks:
 
 You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com) to build a full-stack application from scratch, or check out [Laracasts](https://laracasts.com) for video tutorials on both frameworks.
 
+## Project Setup
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/LovelyTimeMachine/GalleryPhotoLaraVue.git
+   cd GalleryPhotoLaraVue
