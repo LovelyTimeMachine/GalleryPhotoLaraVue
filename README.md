@@ -4,7 +4,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://vuejs.org" target="_blank">
-    <img src="https://vuejs.org/images/logo.png" width="200" alt="Vue.js Logo">
+    <img src="https://vuejs.org/images/logo.png" width="100" alt="Vue.js Logo">
   </a>
 </p>
 
@@ -60,10 +60,7 @@ To get started, explore the documentation for both frameworks:
 
 You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com) to build a full-stack application from scratch, or check out [Laracasts](https://laracasts.com) for video tutorials on both frameworks.
 
-## Project Setup
+one https://github.com/LovelyTimeMachine/GalleryPhotoLaraVue.git
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/LovelyTimeMachine/GalleryPhotoLaraVue.git
    cd GalleryPhotoLaraVue
