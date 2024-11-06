@@ -10,10 +10,6 @@
   <a href="https://inertiajs.com" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/52368357?s=200&v=4" width="100" alt="Inertia.js Logo">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://laravel.com/docs/8.x/starter-kits#breeze" target="_blank">
-    <img src="https://laravel.com/img/logomark.min.svg" width="50" alt="Laravel Breeze Logo">
-  </a>
 </p>
 
 <p align="center">
